@@ -1,1 +1,1 @@
-# Gradient Boosted Descent Models for Predictiton of Armed Conflict
+# Gradient Boosted Models for Predictiton of Armed Conflict.  Gradient Boosted Trees used to predict the onset of a large, small, or no conflict within the next 1, 3, or 5 years.  Largely builds on the multinomial logit model of Hegre et al.
